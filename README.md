@@ -10,6 +10,8 @@ Download the installer.sh using command below :
 $ cd
 $ git clone https://github.com/fullcounter/xfce-auto-installer-centos7
 $ cd xfce-auto-installer-centos7
+$ chmod +x installer.sh
+$ ./installer.sh
 ```
 
 The script will install Xfce environment and VNC server, and a vnc user called vncme.
